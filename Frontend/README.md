@@ -1,4 +1,4 @@
-# voting-project
+# stopmurdoch.com
 
 ## Project setup
 ```
